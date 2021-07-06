@@ -43,7 +43,7 @@
 ### Crawling
 
 -   동물병원 데이터 (약 5000 건)
-    -   [동물보호관리시스템](https://www.animal.go.kr/) $\Rightarrow$ 업체정보 $\Rightarrow$ 동물병원 데이터 $\Rightarrow$ crawling
+    -   [동물보호관리시스템](https://www.animal.go.kr/) -> 업체정보 -> 동물병원 데이터 -> crawling
 
 ### Blog
 
